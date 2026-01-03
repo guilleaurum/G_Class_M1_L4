@@ -34,4 +34,5 @@ async def repite(ctx, times: int, content='Gatos'):
 async def perro(ctx):
     await ctx.send('Solo quiero a los gatos')
 
-bot.run("MTQ1MTk1MDY1NDU2NTM4ODMxMQ.GdyPF6.y57aECeCcwwlkE0KzLCCR3sOU6HaErv0Z9jCKE")
+
+bot.run("TOKEN")
